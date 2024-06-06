@@ -9677,8 +9677,8 @@ msgstr "Annuleren"
 
 #: ../gui/qml/components/SendDialog.qml:59
 msgctxt "SendDialog|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Scan een Factuur, een Adres, een LNURL-pay, een PSBT of een Kanaalbackup"
+msgid "Scan an Invoice or Address"
+msgstr "S"
 
 #: ../gui/qml/components/SendDialog.qml:71
 msgctxt "SendDialog|"
@@ -10755,8 +10755,8 @@ msgstr "Geen portemonnee geladen"
 
 #: ../gui/qml/components/WalletMainView.qml:46
 msgctxt "WalletMainView|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Scan een Factuur, een Adres, een LNURL-pay, een PSBT of een Kanaalbackup"
+msgid "Scan an Invoice or Address"
+msgstr ""
 
 #: ../gui/qml/components/WalletMainView.qml:55
 #: ../gui/qml/components/WalletMainView.qml:517

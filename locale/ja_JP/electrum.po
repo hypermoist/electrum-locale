@@ -9662,7 +9662,7 @@ msgstr "キャンセル"
 
 #: ../gui/qml/components/SendDialog.qml:59
 msgctxt "SendDialog|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
+msgid "Scan an Invoice or Address"
 msgstr ""
 
 #: ../gui/qml/components/SendDialog.qml:71
@@ -10740,7 +10740,7 @@ msgstr ""
 
 #: ../gui/qml/components/WalletMainView.qml:46
 msgctxt "WalletMainView|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
+msgid "Scan an Invoice or Address"
 msgstr ""
 
 #: ../gui/qml/components/WalletMainView.qml:55

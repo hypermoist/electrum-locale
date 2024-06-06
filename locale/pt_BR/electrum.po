@@ -9672,8 +9672,8 @@ msgstr "Cancelar"
 
 #: ../gui/qml/components/SendDialog.qml:59
 msgctxt "SendDialog|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Escaneie uma fatura, um endereço, um LNURL-pay, um PSBT ou um backup de canal"
+msgid "Scan an Invoice or Address"
+msgstr ""
 
 #: ../gui/qml/components/SendDialog.qml:71
 msgctxt "SendDialog|"
@@ -10711,7 +10711,6 @@ msgstr "Digite a nova senha"
 msgctxt "WalletDetails|"
 msgid "If you forget your password, you'll need to restore from seed. Please make sure you have your seed stored safely"
 msgstr "Se você esquecer sua senha, precisará restaurar a partir da semente. Por favor, certifique-se de ter sua semente armazenada com segurança"
-
 #: ../gui/qml/components/WalletDetails.qml:457
 #: ../gui/qml/components/WalletDetails.qml:510
 msgctxt "WalletDetails|"
@@ -10750,8 +10749,8 @@ msgstr "Nenhuma carteira carregada"
 
 #: ../gui/qml/components/WalletMainView.qml:46
 msgctxt "WalletMainView|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Escaneie uma fatura, um endereço, um LNURL-pay, um PSBT ou um backup de canal"
+msgid "Scan an Invoice or Address"
+msgstr ""
 
 #: ../gui/qml/components/WalletMainView.qml:55
 #: ../gui/qml/components/WalletMainView.qml:517

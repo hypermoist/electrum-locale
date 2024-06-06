@@ -9680,8 +9680,8 @@ msgstr "取消"
 
 #: ../gui/qml/components/SendDialog.qml:59
 msgctxt "SendDialog|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "扫描发票、地址、LNURL支付、PSBT或通道备份"
+msgid "Scan an Invoice or Address"
+msgstr ""
 
 #: ../gui/qml/components/SendDialog.qml:71
 msgctxt "SendDialog|"
@@ -10758,7 +10758,7 @@ msgstr "未加载钱包"
 
 #: ../gui/qml/components/WalletMainView.qml:46
 msgctxt "WalletMainView|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
+msgid "Scan an Invoice or Address"
 msgstr "扫描发票、地址、LNURL支付、PSBT或通道备份"
 
 #: ../gui/qml/components/WalletMainView.qml:55

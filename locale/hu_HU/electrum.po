@@ -9678,8 +9678,8 @@ msgstr "Mégsem"
 
 #: ../gui/qml/components/SendDialog.qml:59
 msgctxt "SendDialog|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Számla, cím, LNURL-pay, PSBT vagy csatorna biztonsági mentés beolvasása"
+msgid "Scan an Invoice or  Address"
+msgstr "Számla vagy cím beolvasása"
 
 #: ../gui/qml/components/SendDialog.qml:71
 msgctxt "SendDialog|"
@@ -10756,8 +10756,8 @@ msgstr "nincs betöltve tárca"
 
 #: ../gui/qml/components/WalletMainView.qml:46
 msgctxt "WalletMainView|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Számla, cím, LNURL-pay, PSBT vagy csatorna biztonsági mentés beolvasása"
+msgid "Scan an Invoice or Address"
+msgstr "Számla vagy cím beolvasása"
 
 #: ../gui/qml/components/WalletMainView.qml:55
 #: ../gui/qml/components/WalletMainView.qml:517

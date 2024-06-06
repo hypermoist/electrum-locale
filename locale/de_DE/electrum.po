@@ -9678,8 +9678,8 @@ msgstr "Abbrechen"
 
 #: ../gui/qml/components/SendDialog.qml:59
 msgctxt "SendDialog|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Scannen Sie eine Rechnung, eine Adresse, eine LNURL-Zahlung, ein PSBT oder ein Kanal-Backup"
+msgid "Scan an Invoice or Address"
+msgstr "Rechnung oder Adresse scannen"
 
 #: ../gui/qml/components/SendDialog.qml:71
 msgctxt "SendDialog|"
@@ -10756,8 +10756,8 @@ msgstr "Keine Geldbörse geladen"
 
 #: ../gui/qml/components/WalletMainView.qml:46
 msgctxt "WalletMainView|"
-msgid "Scan an Invoice, an Address, an LNURL-pay, a PSBT or a Channel backup"
-msgstr "Scannen Sie eine Rechnung, eine Adresse, eine LNURL-Zahlung, ein PSBT oder ein Kanal-Backup"
+msgid "Scan an Invoice or Address"
+msgstr "Rechnung oder Adresse scannen"
 
 #: ../gui/qml/components/WalletMainView.qml:55
 #: ../gui/qml/components/WalletMainView.qml:517
